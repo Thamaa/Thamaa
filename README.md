@@ -44,9 +44,9 @@ if __name__ == '__main__':
    <a href="https://x.com/imthamaa" target="_blank"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-202020?style=for-the-badge&logo=x&labelColor=black&link=right&link=left"></a> 
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thamaa/Thamaa/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thamaa/Thamaa/output/github-contribution-grid-snake.svg">
-<img alt="snake animation" src="https://raw.githubusercontent.com/Thamaa/Thamaa/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamaa/Thamaa/blob/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/Thamaa/Thamaa/blob/output/github-contribution-grid-snake.svg">
+<img alt="snake animation" src="https://github.com/Thamaa/Thamaa/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
