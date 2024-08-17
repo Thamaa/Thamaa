@@ -33,7 +33,7 @@ if __name__ == '__main__':
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Illustrator" height="30" width="30" src="https://i.imgur.com/IQ9UZ15.png">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/vdURoGx.png">
+  <img align="right" alt="Pic" height="100" style="border-radius:50px;" src="https://i.imgur.com/vdURoGx.png">
 </div>
 
 ##
