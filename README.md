@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aleo&size=21&pause=1000&width=435&lines=Hola!!!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&letterSpacing=1&pause=1000&width=435&lines=Hi+!!!+%F0%9F%91%8B)](https://git.io/typing-svg)
 ##
 
 ```python
