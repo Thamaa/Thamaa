@@ -38,6 +38,7 @@ if __name__ == '__main__':
   <img align="right" alt="Pic" height="125" style="border-radius:50px;" src="https://i.imgur.com/vdURoGx.png">
 </div>
 
+##
 
 <div>
   <a href="https://discord.com/users/527632864624377876" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
