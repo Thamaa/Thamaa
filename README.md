@@ -35,7 +35,6 @@ if __name__ == '__main__':
   <img align="center" alt="Illustrator" height="30" width="30" src="https://i.imgur.com/IQ9UZ15.png">
   <img align="center" alt="JAVA" height="30" width="30" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667">
   <img align="center" alt="git" height="30" width="30" src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
-    <img align="center" alt="sql" height="30" width="30" src="https://e7.pngegg.com/pngimages/167/148/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png">
   <img align="right" alt="Pic" height="125" style="border-radius:50px;" src="https://i.imgur.com/vdURoGx.png">
 </div>
 
