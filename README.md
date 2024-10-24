@@ -29,13 +29,6 @@ if __name__ == '__main__':
     </picture>
   </div>
 
-  <div style="clear: both; margin-top: 10px;">
-    ## Social
-    <a href="https://discord.com/users/527632864624377876" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:vicentecisternas.leon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://x.com/imthamaa" target="_blank"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-202020?style=for-the-badge&logo=x&labelColor=black&link=right&link=left"></a>
-  </div>
-
   ## 🧰Lenguages and tools
   <div style="display: inline_block"><br>
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -45,6 +38,15 @@ if __name__ == '__main__':
     <img align="center" alt="git" height="30" width="30" src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
     <img align="right" alt="Pic" height="125" style="border-radius:50px;" src="https://i.imgur.com/vdURoGx.png">
   </div>
+</div>
+
+##
+
+<div style="float: left; margin-top: 50px;">
+  # Social
+  <a href="https://discord.com/users/527632864624377876" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vicentecisternas.leon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/imthamaa" target="_blank"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-202020?style=for-the-badge&logo=x&labelColor=black&link=right&link=left"></a> 
 </div>
 
 
