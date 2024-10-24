@@ -33,8 +33,8 @@ if __name__ == '__main__':
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Illustrator" height="30" width="30" src="https://i.imgur.com/IQ9UZ15.png">
-  <img align="center" alt="JAVA" height="30" width="30" src="[https://i.imgur.com/IQ9UZ15.png](https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="SQL" height="30" width="30" src="[https://i.imgur.com/IQ9UZ15.png](https://e7.pngegg.com/pngimages/167/148/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png">
+  <img align="center" alt="JAVA" height="30" width="30" src="[https://i.imgur.com/IQ9UZ15.png](https://cdn-icons-png.flaticon.com/512/226/226777.png)">
+  <img align="center" alt="SQL" height="30" width="30" src="[https://i.imgur.com/IQ9UZ15.png](https://e7.pngegg.com/pngimages/167/148/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png)">
   <img align="right" alt="Pic" height="125" style="border-radius:50px;" src="https://i.imgur.com/vdURoGx.png">
 </div>
 
