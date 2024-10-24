@@ -43,7 +43,7 @@ if __name__ == '__main__':
 ##
 
 <div style="float: left; margin-top: 50px;">
-  # Social
+  #Social
   <a href="https://discord.com/users/527632864624377876" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vicentecisternas.leon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://x.com/imthamaa" target="_blank"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-202020?style=for-the-badge&logo=x&labelColor=black&link=right&link=left"></a> 
