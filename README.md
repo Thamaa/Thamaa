@@ -10,7 +10,7 @@ class AboutMe():
     self.name = "Vicente"
     self.username = "Thama"
     self.location = "Viña del mar, Chile"
-    self.portfolio = "[https://github.com/Thamaa]"
+    self.portfolio = "[https://github.com/VicenteCLeon]"
   
   def __str__(self):
     return self.name
