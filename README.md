@@ -8,7 +8,7 @@ class AboutMe():
     
   def __init__(self):
     self.name = "Vicente"
-    self.username = "Thama"
+    self.username = "VicenteCLeon"
     self.location = "Viña del mar, Chile"
     self.portfolio = "[https://github.com/VicenteCLeon]"
   
