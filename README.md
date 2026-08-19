@@ -28,9 +28,7 @@ if __name__ == '__main__':
 ![](https://streak-stats.demolab.com/?user=VicenteCLeon&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VicenteCLeon&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VicenteCLeon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+)
 ---
-[![](https://komarev.com/ghpvc/?username=VicenteCLeon&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=VicenteCLeon&icon=0&color=1)](https://visitcount.itsvg.in)
 
