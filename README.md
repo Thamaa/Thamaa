@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&letterSpacing=1&size=25&pause=1000&width=435&lines=Hi+!!!+%F0%9F%91%8B)](https://git.io/typing-svg)
-##
-
 ```python
 class AboutMe():
   # I'm currently a student at Pontificia Universidad Católica de Valparaíso (PUCV).
